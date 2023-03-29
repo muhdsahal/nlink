@@ -1,0 +1,152 @@
+*{
+    margin:0px;
+}
+.firstpart{
+    width: 100%;
+    height: 1300px;
+    background-color: #b4bdcb;
+    
+}
+.logo{
+    width: 344px;
+    height: 260px;
+    margin-left: 91px;
+    margin-top: 82px;
+}
+.fhd{
+    font-size: 70px;
+    line-height: 70px
+    font-family:Untitled Sans, Helvetica, Arial, sans-serif;
+    color:white;
+    margin-left: 70px;
+    height: 156px;
+    
+}
+.fphoto1{
+    width: 1665px;
+    height: 903px;
+    margin-top: -235px;
+    margin-left: 383px;
+}
+.flist ul{
+    color: white;
+    list-style-type: none;
+    font-size: 25px;
+    margin-left: 1900px;
+    margin-top: -1014px;    
+     
+}
+.uline{
+    height: 2px;
+    width: 50%;
+    color: white;
+    margin-top: 830px;
+    margin-left: 70px;
+    line-height: 4px;
+    border: 1px solid white;
+}
+.uwords{
+    font-size: 35px;
+    margin-left: 50px;
+    color: white;
+    width: 50%;
+    
+}
+.uwords ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row
+    
+}
+.secondpart{
+    height: 900px;
+    display: flex;
+    flex-direction: row;
+}
+.snd1,.snd2,.snd3{
+    flex: 1;
+    height: 900px;
+
+}
+.snd1{
+    background-color:#c9a3a4 ; 
+}
+.ub{
+    width: 455px;
+    height: 451px;
+    margin-left: 131px;}
+.snd1hd{
+    font-size: 33px;
+    font-family: "Untitled Sans", Helvetica, Arial, sans-serif;
+    color: white;
+    margin-left: 66px;
+}
+.snd2{
+    background-color: #a7ceef;
+}
+.ifb{
+    width: 455px;
+    height: 451px;
+    margin-left: 131px;
+}
+.snd2hd{
+    font-size: 33px;
+    font-family: "Untitled Sans", Helvetica, Arial, sans-serif;
+    color: white;
+    margin-left: 66px;
+}
+.snd3{
+    background-color: #acb5ac;
+}
+.ewb{
+    width: 455px;
+    height: 451px;
+    margin-left: 131px;
+}
+.snd3hd{
+    font-size: 33px;
+    font-family: "Untitled Sans", Helvetica, Arial, sans-serif;
+    color: white;
+    margin-left: 66px;
+}
+.thirdpart{
+    width: 100%;
+    height: 800px;
+}
+ .thdimg{
+    width: 100%;
+    height: 800px;
+} 
+.forthpart{
+    width: 100%;
+    height: 420px;
+    background-color: #f2f7f7;
+}
+.ftlg{
+    width: 139px;
+    height: 131px;
+    margin-top: 103px;
+    margin-left: 97px;
+}
+.fthd{
+    margin-left: 260px;
+    margin-top: -100px;
+    font-size: 27px;
+    color:#858686;
+}
+.ftlist{
+    color:#858686;
+    font-size: 27px;
+    margin-left: 1000px;
+    margin-top: -146px;
+    list-style-type: none;
+
+}
+.ftinfo{
+    font-size: 30px;
+    color:#858686;
+    margin-left: 1600px;
+    margin-top: -205px;
+
+}
